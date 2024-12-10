@@ -1,0 +1,45 @@
+wd-40
+123
+89.50
+hand-Saw
+90
+200
+petrol chain-saw
+25
+10500
+electric chain-saw
+49
+13500
+1-inch screw
+12500
+1.50
+2-inch screw
+20000
+2.50
+4-inch screw
+30050
+3.50
+10-inch screw
+20010
+4.50
+screw driver
+1000
+89.50
+3-inch g-clamp
+304
+350
+4-inch g-clamp
+309
+450
+5-inch g-clamp
+298
+550
+6-inch g-clamp
+289
+650
+8-inch g-clamp
+217
+850
+9-inch g-clamp
+229
+950
